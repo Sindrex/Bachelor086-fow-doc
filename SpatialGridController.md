@@ -5,9 +5,9 @@ Inherits from [MonoBehaviour](https://docs.unity3d.com/ScriptReference/MonoBehav
 Component used in Spatial Indexing of units.
 
 ## Properties
-x | abc
---- | ---
-y | abc
-
-## Public Methods
-table
+Property | Description
+---     | ---
+x       | abc
+y       | abc
+index   | abc
+myUnits | abc
