@@ -2,8 +2,8 @@
 In relation to Bachelor 086, first semester of 2020.
 
 ## Classes:
+* [FowCalcArchetype](https://github.com/Sindrex/Bachelor086-fow-doc/blob/master/FowCalcArchetype.md)
+* [FowCalcJob](https://github.com/Sindrex/Bachelor086-fow-doc/blob/master/FowCalcJob.md)
+* [FowManager](https://github.com/Sindrex/Bachelor086-fow-doc/blob/master/FowManager.md)
 * [SpatialGridController](https://github.com/Sindrex/Bachelor086-fow-doc/blob/master/SpatialGridController.md)
-* [UnitFowController](https://www.google.com)
-* [FowManager](https://www.google.com)
-* [FowCalcArchetype](https://www.google.com)
-* [FowCalcJob](https://www.google.com)
+* [UnitFowController](https://github.com/Sindrex/Bachelor086-fow-doc/blob/master/UnitFowController.md)
