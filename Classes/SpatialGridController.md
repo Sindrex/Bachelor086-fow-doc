@@ -6,8 +6,8 @@ Component used in Spatial Indexing of units.
 
 ## Properties
 Property | Description
----     | ---
-x       | abc
-y       | abc
-index   | abc
-myUnits | abc
+--- | ---
+x       | Width index in the grid.
+y       | Height index in the grid.
+index   | Index in the array where the grid is stored.
+myUnits | A list of units within this square.
