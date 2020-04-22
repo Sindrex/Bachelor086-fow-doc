@@ -9,8 +9,9 @@ Property | Description
 --- | ---
 unitFows | Units that have requested an update to their view.
 owFowMap | The [MeshRenderer](https://docs.unity3d.com/ScriptReference/MeshRenderer.html) that renders the unit's view in the overworld.
-spatialGridWidth | The amount of squares that make up the spatial grid's width. Must be a divisor of worldWidth and worldHeight!
-spatialGridPrefab | The saved [GameObject](https://docs.unity3d.com/ScriptReference/GameObject.html) that is instantiated to make the spatial grid.
+spatialGridWidth | The amount of squares that make up the spatial grid's width. Must be a divisor of worldWidth!
+spatialGridHeight | The amount of squares that make up the spatial grid's height. Must be a divisor of worldHeight!
+spatialGridSquarePrefab | The saved [GameObject](https://docs.unity3d.com/ScriptReference/GameObject.html) that is instantiated to make the spatial grid.
 minUpdateTimer | The minimum amount of seconds (float) that needs to pass before the fog of war can update again.
 viewDists | The view distances for the separate [FowCalcArchetype](https://github.com/Sindrex/Bachelor086-fow-doc/blob/master/Classes/FowCalcArchetype.md)s.
 seeThroughs | The maximum amount of resources/walls to see through for the separate [FowCalcArchetype](https://github.com/Sindrex/Bachelor086-fow-doc/blob/master/Classes/FowCalcArchetype.md)s.
