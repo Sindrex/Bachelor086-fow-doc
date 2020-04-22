@@ -1,4 +1,4 @@
-# SpatialGridController
+# SpatialGridSquareController
 Inherits from [MonoBehaviour](https://docs.unity3d.com/ScriptReference/MonoBehaviour.html).
 
 ## Description
