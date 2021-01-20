@@ -7,5 +7,5 @@ Modeled after the [Official Unity API](https://docs.unity3d.com/ScriptReference/
 * [FowCalcArchetype](https://github.com/Sindrex/Bachelor086-fow-doc/blob/master/Classes/FowCalcArchetype.md)
 * [FowCalcJob](https://github.com/Sindrex/Bachelor086-fow-doc/blob/master/Classes/FowCalcJob.md)
 * [FowManager](https://github.com/Sindrex/Bachelor086-fow-doc/blob/master/Classes/FowManager.md)
-* [SpatialGridController](https://github.com/Sindrex/Bachelor086-fow-doc/blob/master/Classes/SpatialGridController.md)
+* [SpatialGridController](https://github.com/Sindrex/Bachelor086-fow-doc/blob/master/Classes/SpatialGridSquareController.md)
 * [UnitFowController](https://github.com/Sindrex/Bachelor086-fow-doc/blob/master/Classes/UnitFowController.md)
